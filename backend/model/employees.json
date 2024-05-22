@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Paulo",
+        "email": "paulo@gmail.com",
+        "age": 35,
+        "department": "Security"
+    },
+    {
+        "id": "2",
+        "name": "Carol",
+        "email": "carol@gmail.com",
+        "age": 30,
+        "department": "Network"
+    },
+    {
+        "id": "6b5c0409-5f4c-433e-a871-35d39a1c133a",
+        "name": "Luis Costa",
+        "age": 41,
+        "email": "luiscosta@gmail.com",
+        "department": "Network"
+    },
+    {
+        "id": "ad641382-3f0e-44ba-af70-d2f15e2a90e7",
+        "name": "Maria",
+        "age": 28,
+        "email": "maria@gmail.com",
+        "department": "Security"
+    }
+]

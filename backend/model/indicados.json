@@ -1,0 +1,632 @@
+[
+    {
+        "id": "C15kpfnWdlVjcFRUrr3Y",
+        "categoria": "Melhor Ator",
+        "ator": 2037,
+        "filme": 872585
+    },
+    {
+        "id": "FmahbfnmcG74gFgq9xMh",
+        "categoria": "Melhor Ator",
+        "ator": 2954,
+        "filme": 1056360
+    },
+    {
+        "id": "M1mpZXXh3HrmrPu1NGni",
+        "categoria": "Melhor Ator",
+        "ator": 51329,
+        "filme": 523607
+    },
+    {
+        "id": "uxfdxJeK91aPZ12KLoSE",
+        "categoria": "Melhor Ator",
+        "ator": 91671,
+        "filme": 898713
+    },
+    {
+        "id": "xxszZ7PUVneaxMA4yuhc",
+        "categoria": "Melhor Ator",
+        "ator": 13242,
+        "filme": 840430
+    },
+    {
+        "id": "AX7mt0WsDDGp1BQvq1Q9",
+        "categoria": "Melhor Ator Coadjuvante",
+        "ator": 30614,
+        "filme": 346698
+    },
+    {
+        "id": "Ba6qVvZfw8JbyegCE4n8",
+        "categoria": "Melhor Ator Coadjuvante",
+        "ator": 1225953,
+        "filme": 1056360
+    },
+    {
+        "id": "FW3xHkRdZJVbsn7CZYDF",
+        "categoria": "Melhor Ator Coadjuvante",
+        "ator": 380,
+        "filme": 466420
+    },
+    {
+        "id": "GPEah6Wa9R8sDrGM9hNW",
+        "categoria": "Melhor Ator Coadjuvante",
+        "ator": 3223,
+        "filme": 872585
+    },
+    {
+        "id": "a5U9Kl7EG4ThN4GHqFDI",
+        "categoria": "Melhor Ator Coadjuvante",
+        "ator": 103,
+        "filme": 792307
+    },
+    {
+        "id": "6Ufi49M7lUIH9XcHWyhy",
+        "categoria": "Melhor Atriz",
+        "atriz":36662,
+        "filme": 523607
+    },
+    {
+        "id": "FYBElFJsJfM2A0Zhcblc",
+        "categoria": "Melhor Atriz",
+        "atriz": 516,
+        "filme": 895549
+    },
+    {
+        "id": "hA6VNxmSXj6ka937oKbY",
+        "categoria": "Melhor Atriz",
+        "atriz": 54693,
+        "filme": 792307
+    },
+    {
+        "id": "wr5ilj2xNTtUoBAjNIEe",
+        "categoria": "Melhor Atriz",
+        "atriz": 1183917,
+        "filme": 466420
+    },
+    {
+        "id": "y5VOyIjZVioEGpNd7Uvl",
+        "categoria": "Melhor Atriz",
+        "atriz": 7152,
+        "filme": 915935
+    },
+    {
+        "id": "3F48tKmBZEd40lXgbkBG",
+        "categoria": "Melhor Atriz Coadjuvante",
+        "atriz": 1075037,
+        "filme": 558915
+    },
+    {
+        "id": "3Sr9NH7PvTBq83PymGfd",
+        "categoria": "Melhor Atriz Coadjuvante",
+        "atriz": 1038,
+        "filme": 895549
+    },
+    {
+        "id": "JR1sW3zAQ5iClVoA0sXd",
+        "categoria": "Melhor Atriz Coadjuvante",
+        "atriz": 5081,
+        "filme": 872585
+    },
+    {
+        "id": "Wh715UbjzUc9sUL4YcZ3",
+        "categoria": "Melhor Atriz Coadjuvante",
+        "atriz": 1180099,
+        "filme": 840430
+    },
+    {
+        "id": "it7B7PASiyhANHLng5PP",
+        "categoria": "Melhor Atriz Coadjuvante",
+        "atriz": 59174,
+        "filme": 346698
+    },
+    {
+        "id": "ZiIXsWDh8JfbXiPHEKrN",
+        "categoria": "Melhor Canção Original",
+        "cancao": "It Never Went Away",
+        "filme": 1171816
+    },
+    {
+        "id": "cvGUm0RB6zGfRxV6JUKs",
+        "categoria": "Melhor Canção Original",
+        "cancao": "I'm Just Ken",
+        "filme": 346698
+    },
+    {
+        "id": "eMMHmPvPixFNoK69dMu6",
+        "categoria": "Melhor Canção Original",
+        "cancao": "What Was I Made For?",
+        "filme": 346698
+    },
+    {
+        "id": "kAO0OUkG35wZNubmTCyA",
+        "categoria": "Melhor Canção Original",
+        "cancao": "The Fire Inside",
+        "filme": 626332
+    },
+    {
+        "id": "pjqMwNyWzWdCcVMnEUCW",
+        "categoria": "Melhor Canção Original",
+        "cancao": "Wahzhazhe (A Song for My People)",
+        "filme": 466420
+    },
+    {
+        "id": "KXHQyzqVvFYFbKKN727c",
+        "categoria": "Melhor Curta-metragem de Animação",
+        "filme": 1140605
+    },
+    {
+        "id": "SzdMS8DrbsjGaPvjKzgU",
+        "categoria": "Melhor Curta-metragem de Animação",
+        "filme": 950810
+    },
+    {
+        "id": "TDOwrpoZF9BX0ECdW4bd",
+        "categoria": "Melhor Curta-metragem de Animação",
+        "filme": 1040371
+    },
+    {
+        "id": "af9XgtIxJROQsPv5pnEl",
+        "categoria": "Melhor Curta-metragem de Animação",
+        "filme": 1214020
+    },
+    {
+        "id": "ah46TJe8gQJMojANfKbT",
+        "categoria": "Melhor Curta-metragem de Animação",
+        "filme": 950822
+    },
+    {
+        "id": "3X5VEt2RknfzJQ2JeAkz",
+        "categoria": "Melhor Curta-metragem em Live Action",
+        "filme": 971468
+    },
+    {
+        "id": "DNgtjbMs6kRc0frfRJuC",
+        "categoria": "Melhor Curta-metragem em Live Action",
+        "filme": 1169455
+    },
+    {
+        "id": "NVCDG0DN4Xi4oyaFDRVR",
+        "categoria": "Melhor Curta-metragem em Live Action",
+        "filme": 1084765
+    },
+    {
+        "id": "XBisT5Yt12A9YhkUZJfg",
+        "categoria": "Melhor Curta-metragem em Live Action",
+        "filme": 923939
+    },
+    {
+        "id": "pDhN09fwsaFX40P3Prbi",
+        "categoria": "Melhor Curta-metragem em Live Action",
+        "filme": 1194636
+    },
+    {
+        "id": "3IMKbC7zcYegh9qvbn6f",
+        "categoria": "Melhor Design de Produção",
+        "filme": 753342
+    },
+    {
+        "id": "AAYns39ds5n8OEsKdavw",
+        "categoria": "Melhor Design de Produção",
+        "filme": 872585
+    },
+    {
+        "id": "P3Vij00AQQ0WTKbmd980",
+        "categoria": "Melhor Design de Produção",
+        "filme": 792307
+    },
+    {
+        "id": "dP4FCOt2O5OeHpuiAKQ2",
+        "categoria": "Melhor Design de Produção",
+        "filme": 346698
+    },
+    {
+        "id": "ow3bC7wm3PKQ97rwlJMS",
+        "categoria": "Melhor Design de Produção",
+        "filme": 466420
+    },
+    {
+        "id": "NgtBLMAhVi6THcvyZweS",
+        "categoria": "Melhor Diretor",
+        "diretor": 525,
+        "filme": 872585
+    },
+    {
+        "id": "TDmMsyw6nhh73BKl6rUN",
+        "categoria": "Melhor Diretor",
+        "diretor": 1175620, 
+        "filme": 915935
+    },
+    {
+        "id": "VOa9PtPhXgLapHRrz9gr",
+        "categoria": "Melhor Diretor",
+        "diretor": 1032,
+        "filme": 466420
+    },
+    {
+        "id": "hLJBhOkqb3BoHesQqg6b",
+        "categoria": "Melhor Diretor",
+        "diretor": 66728,
+        "filme": 467244
+    },
+    {
+        "id": "hcsY9WUVCaY07DRK1yrd",
+        "categoria": "Melhor Diretor",
+        "diretor": 122423,
+        "filme": 792307
+    },
+    {
+        "id": "awnVAbPq5PMf00aRmilN",
+        "categoria": "Melhor Documentário de Curta-metragem",
+        "filme": 1186227
+    },
+    {
+        "id": "fLZvq0CdZC7OTUXY2cUj",
+        "categoria": "Melhor Documentário de Curta-metragem",
+        "filme": 1186247
+    },
+    {
+        "id": "lj3tI6ursEr2uFKkfz2i",
+        "categoria": "Melhor Documentário de Curta-metragem",
+        "filme": 1085779
+    },
+    {
+        "id": "rnM6iYNBFvxZPQpa4qjE",
+        "categoria": "Melhor Documentário de Curta-metragem",
+        "filme": 1203439
+    },
+    {
+        "id": "tlC4gNvvcDVil97fnkrH",
+        "categoria": "Melhor Documentário de Curta-metragem",
+        "filme": 1171861
+    },
+    {
+        "id": "6xVFlvsHgaVmfmPSkqfk",
+        "categoria": "Melhor Documentário de Longa-metragem",
+        "filme": 1004683
+    },
+    {
+        "id": "CkTrY3j6CG1TbDYoD4t3",
+        "categoria": "Melhor Documentário de Longa-metragem",
+        "filme": 1032760
+    },
+    {
+        "id": "Gg5270KCTgokGHgrxqrG",
+        "categoria": "Melhor Documentário de Longa-metragem",
+        "filme": 1058616
+    },
+    {
+        "id": "HEHidQSODO9fvkwwm7za",
+        "categoria": "Melhor Documentário de Longa-metragem",
+        "filme": 1069193
+    },
+    {
+        "id": "zAdPCZVenTVSqLoj1asC",
+        "categoria": "Melhor Documentário de Longa-metragem",
+        "filme": 1015356
+    },
+    {
+        "id": "2uFGj8R1STz4ENjBM9P1",
+        "categoria": "Melhor Edição",
+        "filme": 466420
+    },
+    {
+        "id": "gmURbyRIzOfEtgkoUXIW",
+        "categoria": "Melhor Edição",
+        "filme": 872585
+    },
+    {
+        "id": "rHoDj6rarVzZaprIVGC7",
+        "categoria": "Melhor Edição",
+        "filme": 840430
+    },
+    {
+        "id": "wyI3031O9FaLIsaSTih6",
+        "categoria": "Melhor Edição",
+        "filme": 915935
+    },
+    {
+        "id": "xA6svDZZJHp4EoqovTcG",
+        "categoria": "Melhor Edição",
+        "filme": 792307
+    },
+    {
+        "id": "3XsB94yPQaAmSPPrLmkx",
+        "categoria": "Melhor Figurino",
+        "filme": 792307
+    },
+    {
+        "id": "IasuM105fLayrzNQdK6b",
+        "categoria": "Melhor Figurino",
+        "filme": 872585
+    },
+    {
+        "id": "VNBrm98YjxarKG9KjEiB",
+        "categoria": "Melhor Figurino",
+        "filme": 753342
+    },
+    {
+        "id": "s5SRP10fx4RqirHQGA5P",
+        "categoria": "Melhor Figurino",
+        "filme": 466420
+    },
+    {
+        "id": "xUBzHTiFH7SbQL5NX3Gx",
+        "categoria": "Melhor Figurino",
+        "filme": 346698
+    },
+    {
+        "id": "0rQpbY5roXrFBozpCQ70",
+        "categoria": "Melhor Filme",
+        "filme": 872585
+    },
+    {
+        "id": "1skZqQuMNXnh2UVNsfCu",
+        "categoria": "Melhor Filme",
+        "filme": 915935
+    },
+    {
+        "id": "2F194jVdLg8gIMdNTxRx",
+        "categoria": "Melhor Filme",
+        "filme": 467244
+    },
+    {
+        "id": "2lKRD0LKzBykJV1hPCPh",
+        "categoria": "Melhor Filme",
+        "filme": 1056360
+    },
+    {
+        "id": "AbXIlDH68E9eXeS92n1f",
+        "categoria": "Melhor Filme",
+        "filme": 840430
+    },
+    {
+        "id": "CEexGodjveB5wq2rt6sW",
+        "categoria": "Melhor Filme",
+        "filme": 792307
+    },
+    {
+        "id": "HqqVsTTIyIRLZXq1A8mG",
+        "categoria": "Melhor Filme",
+        "filme": 523607
+    },
+    {
+        "id": "L6L8TvLX7tD37OQxdz8S",
+        "categoria": "Melhor Filme",
+        "filme": 346698
+    },
+    {
+        "id": "c59OVtyOosRZrBfTnR88",
+        "categoria": "Melhor Filme",
+        "filme": 666277
+    },
+    {
+        "id": "mU1QJ4W266Vb4PqH2COA",
+        "categoria": "Melhor Filme",
+        "filme": 466420
+    },
+    {
+        "id": "79XkImG9x00ffnstrnZO",
+        "categoria": "Melhor Filme de Animação",
+        "filme": 508883
+    },
+    {
+        "id": "KpUUIdls3ynMl2UTimZJ",
+        "categoria": "Melhor Filme de Animação",
+        "filme": 961323
+    },
+    {
+        "id": "LWVItZRZWgZdSUb5gOa9",
+        "categoria": "Melhor Filme de Animação",
+        "filme": 838240
+    },
+    {
+        "id": "P85YjxDcGqZfTdqjnj9U",
+        "categoria": "Melhor Filme de Animação",
+        "filme": 976573
+    },
+    {
+        "id": "qfoQnCEz59IXPdCkt83m",
+        "categoria": "Melhor Filme de Animação",
+        "filme": 569094
+    },
+    {
+        "id": "0ICKUioj2OsoVpY6y9AJ",
+        "categoria": "Melhor Filme Internacional",
+        "filme": 906126
+    },
+    {
+        "id": "S8Gm8IeEyyXZq0wow9EB",
+        "categoria": "Melhor Filme Internacional",
+        "filme": 937746
+    },
+    {
+        "id": "T9WTrVMElAse3WAoWiBT",
+        "categoria": "Melhor Filme Internacional",
+        "filme": 467244
+    },
+    {
+        "id": "ce8wgHKgKxqZNsiKun2w",
+        "categoria": "Melhor Filme Internacional",
+        "filme": 976893
+    },
+    {
+        "id": "kUZGWVDousePS1aWoHiA",
+        "categoria": "Melhor Filme Internacional",
+        "filme": 998022
+    },
+    {
+        "id": "9QeuQt1k77nLOPabDh7m",
+        "categoria": "Melhor Fotografia",
+        "filme": 466420
+    },
+    {
+        "id": "EYf1akUWWCHXTA1XUDGP",
+        "categoria": "Melhor Fotografia",
+        "filme": 872585
+    },
+    {
+        "id": "ONksztWgVW0WNNuJCmam",
+        "categoria": "Melhor Fotografia",
+        "filme": 991708
+    },
+    {
+        "id": "STm85RGLrEmqDf8htALF",
+        "categoria": "Melhor Fotografia",
+        "filme": 792307
+    },
+    {
+        "id": "bXlZSqYyrZEOCfXYWxtF",
+        "categoria": "Melhor Fotografia",
+        "filme": 523607
+    },
+    {
+        "id": "G8bvzxyatETutSFKjCs9",
+        "categoria": "Melhor Maquiagem e Penteados",
+        "filme": 792307
+    },
+    {
+        "id": "JhC4o1GxQlmKyPIss0N6",
+        "categoria": "Melhor Maquiagem e Penteados",
+        "filme": 899524
+    },
+    {
+        "id": "NB0sjG36T8YTPC4R9eiY",
+        "categoria": "Melhor Maquiagem e Penteados",
+        "filme": 872585
+    },
+    {
+        "id": "ZSm0qah1GquksUR7kQn9",
+        "categoria": "Melhor Maquiagem e Penteados",
+        "filme": 906126
+    },
+    {
+        "id": "tC8n5usbyaezf93zevND",
+        "categoria": "Melhor Maquiagem e Penteados",
+        "filme": 523607
+    },
+    {
+        "id": "5eOwyDX4XfdyTof0RdJb",
+        "categoria": "Melhor Roteiro Adaptado",
+        "filme": 872585
+    },
+    {
+        "id": "9Jd33DanxqS5TUHZEqck",
+        "categoria": "Melhor Roteiro Adaptado",
+        "filme": 467244
+    },
+    {
+        "id": "ibhdFjo77PuUSWZ4ZXFn",
+        "categoria": "Melhor Roteiro Adaptado",
+        "filme": 346698
+    },
+    {
+        "id": "qXqXTzVWNyqAcAWbFRC3",
+        "categoria": "Melhor Roteiro Adaptado",
+        "filme": 792307
+    },
+    {
+        "id": "zsOQxeajTMCrgdTz7NdI",
+        "categoria": "Melhor Roteiro Adaptado",
+        "filme": 1056360
+    },
+    {
+        "id": "1tsp0FBeg2YiGvcQ4kXJ",
+        "categoria": "Melhor Roteiro Original",
+        "filme": 839369
+    },
+    {
+        "id": "HxkIx42KDonu3BlHH5aT",
+        "categoria": "Melhor Roteiro Original",
+        "filme": 840430
+    },
+    {
+        "id": "S2wtQoaVPqM9snfSAvUU",
+        "categoria": "Melhor Roteiro Original",
+        "filme": 666277
+    },
+    {
+        "id": "icuI3N5nlDeW7j4x0pwk",
+        "categoria": "Melhor Roteiro Original",
+        "filme": 523607
+    },
+    {
+        "id": "zBCr7kI4exXWCKKsCMSA",
+        "categoria": "Melhor Roteiro Original",
+        "filme": 915935
+    },
+    {
+        "id": "67Jgzz7cGsXMi6cofcUY",
+        "categoria": "Melhor Som",
+        "filme": 467244
+    },
+    {
+        "id": "NS1D9oiwAtek246pnbVE",
+        "categoria": "Melhor Som",
+        "filme": 872585
+    },
+    {
+        "id": "Xj3oqruXvPN137LxEv6U",
+        "categoria": "Melhor Som",
+        "filme": 575264
+    },
+    {
+        "id": "bU0c77hLZg0H7S0cOrVg",
+        "categoria": "Melhor Som",
+        "filme": 523607
+    },
+    {
+        "id": "vjhU84u0y8PjiPxYzUcf",
+        "categoria": "Melhor Som",
+        "filme": 670292
+    },
+    {
+        "id": "0EOdzHa1WaNKKa09Nxfs",
+        "categoria": "Melhor Trilha Sonora",
+        "filme": 335977
+    },
+    {
+        "id": "5SpTbid0I14Rpu45It6K",
+        "categoria": "Melhor Trilha Sonora",
+        "filme": 872585
+    },
+    {
+        "id": "NnxBptXp3kXYVlQH6iXa",
+        "categoria": "Melhor Trilha Sonora",
+        "filme": 466420
+    },
+    {
+        "id": "qjdKNQrAoSzDMbuUgHr0",
+        "categoria": "Melhor Trilha Sonora",
+        "filme": 792307
+    },
+    {
+        "id": "sNZEwH3wwtsuG4pRj02A",
+        "categoria": "Melhor Trilha Sonora",
+        "filme": 1056360
+    },
+    {
+        "id": "B3raEFnp9lIYb3a0PuVi",
+        "categoria": "Melhores Efeitos Visuais",
+        "filme": 670292
+    },
+    {
+        "id": "OFLu2JKPeexg1frc2yMJ",
+        "categoria": "Melhores Efeitos Visuais",
+        "filme": 940721
+    },
+    {
+        "id": "pwo7JXkia8d2GEy60Lea",
+        "categoria": "Melhores Efeitos Visuais",
+        "filme": 575264
+    },
+    {
+        "id": "uLRizMLPFUYmkq7fhss6",
+        "categoria": "Melhores Efeitos Visuais",
+        "filme": 447365
+    },
+    {
+        "id": "xB2BsYZkQVVCDSQztWlv",
+        "categoria": "Melhores Efeitos Visuais",
+        "filme": 753342
+    }
+]
